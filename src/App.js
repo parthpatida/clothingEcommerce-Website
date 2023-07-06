@@ -6,7 +6,7 @@ import SearchBox from './component/search-box/search-box.component';
 
 
 const App=()=>{
-  console.log('render')
+  // console.log('render Parth Patidar Parht..................................')
   const [searchfield,setearchfield]=useState('')
   const [monsters,setmonsters]=useState([])
   const [stringfield,setstringfield]=useState('')
